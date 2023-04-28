@@ -65,7 +65,7 @@ export default function Home() {
             className={styles.card}
             target="_blank"
             rel="noopener noreferrer"
-          >
+          > 
             <h2 className={inter.className}>
               Docs <span>-&gt;</span>
             </h2>
